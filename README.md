@@ -10,6 +10,7 @@ CSCE 155N,
 Usage information:
 Files originally written in MATLAB,
 Used GitHub Website for upload,
-Edited file in MATLAB,
-Pushed to development branch from MATLAB,
+Pulled from development branch to master,
 .gitignore created on GitHub Website
+Forked repository on GitHub Website
+Created branches on GitHub Website
