@@ -5,4 +5,4 @@
 *.txt
 
 # to ignore changes in the specific file referenced in the plotDataGUI.m file and in the plotData.m file
-funLinePlot.m
+testIgnoreFile.m
