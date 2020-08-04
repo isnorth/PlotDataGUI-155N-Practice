@@ -1,7 +1,8 @@
+#Isabella North, CSCE 155N Summer 2020
 #This file contains the directions of which files should not be tracked, either for privacy reasons or other
 
 # to ignore all .txt file changes
 *.txt
 
-#to ignore changes in the specific file referenced in the plotDataGUI.m file and in the plotData.m file
+# to ignore changes in the specific file referenced in the plotDataGUI.m file and in the plotData.m file
 funLinePlot.m
